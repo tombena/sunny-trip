@@ -12,3 +12,5 @@ How to use it:
 - Set up your origin and destinations (default values are respectively Paris and some European cities)
 - Set up your dates (default ones are from tomorrow and back 2 days later)
 - Pack a suitcase
+
+Update: QPX Express API service will end on April 10, 2018
